@@ -1,3 +1,4 @@
+Based on https://github.com/druxorey/startpage
 <h1 align="center">Startpage</h1>
 
 <p align="center">A minimalist startpage designed for quick access to your favorite websites</p>
